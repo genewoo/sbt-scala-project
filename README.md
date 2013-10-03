@@ -1,1 +1,1 @@
-This is a default project with minial setting of scala.
+This is a default project with minimal setting of scala.
